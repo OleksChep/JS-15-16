@@ -1,0 +1,35 @@
+body {
+	font-family: "Arial", sans-serif;
+	font-size: 26px;
+}
+.wrapper {
+	width: 60%;
+	margin:100px auto;
+	text-align: center;
+}
+
+.logo {
+	width: 40%;
+	height: auto;
+}
+.gsc-search-button{
+	height: 50px;
+	width: 32px;
+}
+/*
+ form {
+	display: block;
+}
+input {
+	width:670px;
+	height: 36px;
+	color: darkgrey;
+	font-family: "Arial", sans-serif;
+	font-size: 16px;
+	box-sizing: border-box;
+} 
+button {
+	height: 96px;
+    padding-top: 3px;
+}*/
+
